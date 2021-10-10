@@ -20,7 +20,10 @@
     "article time reader",
     "blog time reader"
   ],
-  "author": "John Philip",
+  "author": {
+    "name": "John Philip",
+    "email": "developerphilo@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/developerphilo/blogtimereader/issues"
