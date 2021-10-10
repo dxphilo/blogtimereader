@@ -26,7 +26,7 @@ Install my-project with npm
   
 ## Features
 
-- Get read time for  your blogs and article
+- Get read time for  your blogs and articles
 
   
 ## Authors
