@@ -7,6 +7,8 @@
 Get precise reading time for your blog and articles
 
 </div>
+
+
 ## Installation
 
 Install my-project with npm
