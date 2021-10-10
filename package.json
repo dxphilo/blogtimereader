@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/developerphilo/blogtimereader.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/developerphilo"
+  },
   "keywords": [
     "blog",
     "time",
