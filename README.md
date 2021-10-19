@@ -15,6 +15,8 @@ npm package capable of working with javaScript frameworks (Vue.js, Nuxt, React, 
     
 ## Documentation
 
+ Link the following javascript file into your native HTML project `https://github.com/developerphilo/blogtimereader/blob/main/index.js`
+
 - Provide an id of `blog-readtime` on the wrapping div or section that wraps all of your article/blog content.
 
 - Provide an id of `readtime` on the html element where you want the readmtime to be rendered.
