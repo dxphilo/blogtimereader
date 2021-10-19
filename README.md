@@ -15,9 +15,9 @@ npm package capable of working with javaScript frameworks (Vue.js, Nuxt, React, 
     
 ## Documentation
 
-- On the wrapping div or section that wraps all of your article/blog content: Provide the id of `blog-readtime`
-- Depeding on where you want the read time to be rendered, you can call the function `blogReadTime()`
+- Provide an id of `blog-readtime` on the wrapping div or section that wraps all of your article/blog content.
 
+- Provide an id of `readtime` on the html element where you want the readmtime to be rendered.
 
   
 ## Features
