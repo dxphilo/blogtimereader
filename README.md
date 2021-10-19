@@ -9,13 +9,9 @@ Get precise reading time for your blog and articles
 </div>
 
 
-## Installation
+## Coming soon
 
-Install my-project with npm
-
-```bash
-  npm install blogtimereader --save-dev 
-```
+npm package capable of working with javaScript frameworks (Vue.js, Nuxt, React, Nextjs ...)
     
 ## Documentation
 
